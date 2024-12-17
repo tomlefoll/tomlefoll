@@ -1,16 +1,15 @@
-## Hi there 👋
+Salut, je m'appelle Tom ! 👋
 
-<!--
-**tomlefoll/tomlefoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un collégien passionné de code et d'informatique 🚀, basé à Nantes 🌍. Depuis que j'ai découvert le monde du développement et de la cybersécurité 🔒, je n'ai cessé d'apprendre et de m'améliorer.
 
-Here are some ideas to get you started:
+🎯 Mes passions :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🖥️ Programmation : J'adore explorer les langages comme Python, JavaScript, et HTML/CSS.
+    🔐 Cybersécurité : Sécuriser les systèmes et comprendre les vulnérabilités m'intéresse énormément.
+    💡 Apprentissage continu : Toujours curieux d'apprendre de nouvelles technologies et de partager des projets avec la communauté.
+
+🔧 Ce que je fais :
+
+    📂 Créer des projets open-source sur GitHub.
+    🔍 Travailler sur des défis de cybersécurité et des challenges de programmation.
+    🛠️ Contribuer à des projets en ligne pour améliorer mes compétences.
