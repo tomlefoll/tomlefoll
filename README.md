@@ -1,5 +1,5 @@
 
-# Salut, je suis Tom ! 👋
+# Salut, je m'appelle Tom ! 👋
 
 Je suis un collégien passionné de **code** et d'**informatique** 🚀, basé à **Nantes** 🌍. Depuis que j'ai découvert l'univers du **développement** et de la **cybersécurité** 🔒, je n'ai cessé d'apprendre et de relever des défis !
 
