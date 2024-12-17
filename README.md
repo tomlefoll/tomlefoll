@@ -1,16 +1,14 @@
-Salut, je suis Tom ! 👋
+Hi, im Tom ! 👋
 
-Je suis un collégien passionné de code et d'informatique 🚀, vivant à Nantes 🌍. Depuis que j'ai découvert l'univers du développement et de la cybersécurité 🔒, ma soif d'apprendre n'a cessé de grandir. Chaque jour est une nouvelle occasion de relever des défis et de repousser mes limites.
+Je suis un collégien passionné de code et d'informatique 🚀, basé à Nantes 🌍. Depuis que j'ai découvert l'univers du développement et de la cybersécurité 🔒, je n'ai cessé d'apprendre et de relever des défis !
 🎯 Mes passions :
 
-    🖥️ Programmation : Explorer des langages comme Python, JavaScript, et HTML/CSS est un vrai plaisir. Créer et résoudre des problèmes avec du code me fascine !
-    🔐 Cybersécurité : Comprendre les failles de sécurité et apprendre à protéger les systèmes est un domaine qui me passionne énormément.
-    💡 Apprentissage continu : Je suis constamment curieux de découvrir de nouvelles technologies et j'aime partager mes projets et connaissances avec la communauté.
+    🖥️ Programmation : J'adore explorer des langages comme Python, JavaScript, et HTML/CSS.
+    🔐 Cybersécurité : Protéger les systèmes et comprendre les vulnérabilités me fascine.
+    💡 Apprentissage continu : Toujours curieux de découvrir de nouvelles technologies et partager des projets avec la communauté.
 
 🔧 Ce que je fais :
 
-    📂 Création de projets open-source sur GitHub pour contribuer à la communauté.
-    🔍 Défis en cybersécurité : Résoudre des challenges et améliorer mes compétences techniques.
-    🛠️ Collaboration en ligne sur des projets pour apprendre, échanger et progresser.
-
-Merci de jeter un œil à mon profil ! 🚀 N'hésite pas à me suivre pour suivre mes aventures et découvertes technologiques.
+    📂 Créer des projets open-source sur GitHub.
+    🔍 Participer à des défis de cybersécurité et des challenges de programmation.
+    🛠️ Contribuer à des projets en ligne pour améliorer mes compétences.
